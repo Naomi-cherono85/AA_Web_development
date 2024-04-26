@@ -1,0 +1,39 @@
+iframe{
+    width: 300px;
+}
+.para{
+    max-width: 400px;
+    line-height: 2em;
+    user-select: all;
+}
+img{
+    width: 300px;
+    margin:100px 10px 80px  80px;
+    border-radius: 60%;
+
+}
+.header1{
+ background-color: aqua;  
+ height: 100px;
+ width: 200px;
+ padding: 5px;
+ border: 4px double black;
+ margin: 60px;
+ box-sizing:border-box;
+}
+.header2{
+
+  background-color: blueviolet;
+  border:6px ;
+  margin: 40px;
+
+}
+.nav-link{
+    text-decoration: none;
+}
+#link{
+  height: 80px;
+  border: 6px solid;
+  overflow: scroll;
+}
+

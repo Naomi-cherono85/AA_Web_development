@@ -1,0 +1,40 @@
+h1{
+    color: greenyellow;
+}
+footer{
+    background-color:grey ;
+}
+table{
+    color: pink;
+}
+h4{
+    color: blue;
+}
+h3{
+    color: aqua;
+}
+body{
+    color:grey ;
+}
+.button{
+  background-color: blue;
+}
+.download{
+    color: red;
+    text-decoration: none;
+}
+
+.nav-link{
+    text-decoration: none;
+}
+nav ul{
+    list-style-type: none;
+}
+#pilau{ 
+    background-color: blueviolet;
+}
+nav a:hover{
+    color: blueviolet;
+    font-size: xx-large;
+    text-decoration: underline;
+}
