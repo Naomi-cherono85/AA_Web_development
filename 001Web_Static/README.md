@@ -1,8 +1,8 @@
-# Israel Cafe
+      Israel Cafe
 
 Welcome to the Israel Cafe website repository. This project includes the HTML structure for the Israel Cafe website, showcasing different sections like Home, Menu, Reservation, About Us, Contact Us, Entertainment, and Recipes.
 
-## Project Structure
+ Project Structure
 
 - **Home**: The main landing page.
 - **Menu**: Details of the food and beverages offered.
@@ -12,7 +12,7 @@ Welcome to the Israel Cafe website repository. This project includes the HTML st
 - **Entertainment**: Entertainment options available at the cafe.
 - **Recipes**: Recipes of the dishes served at the cafe.
 
-## HTML Code
+ HTML Code
 
 The main structure of the website is defined in the HTML file as follows:
 
@@ -46,33 +46,35 @@ The main structure of the website is defined in the HTML file as follows:
     </footer>
 </body>
 </html>
-
-
-
- #Features:
-Navigation Bar: Links to different sections of the website.
-Header Image: A large header image to attract visitors.
-Footer: A footer with copyright information.
-
-#Setup
+Features
+    • Navigation Bar: Links to different sections of the website.
+    • Header Image: A large header image to attract visitors.
+    • Footer: A footer with copyright information.
+Setup
 To view the website locally, follow these steps:
-
-1. **Clone the Repository**:
-git clone https://github.com/yourusername/your-repository.git
-
-2. **Navigate to the Project Directory**:
-cd your-repository
-
-4. Open the HTML File:
-Open index.html or the main HTML file in your preferred web browser to view the website.
-
+    1. Clone the Repository:
+       bash
+       Copy code
+       git clone https://github.com/yourusername/your-repository.git
+    2. Navigate to the Project Directory:
+       bash
+       Copy code
+       cd your-repository
+    3. Open the HTML File: Open index.html or the main HTML file in your preferred web browser to view the website.
 Contact
 For any questions or feedback, feel free to contact us via:
-- Email: naomicherono892@gmail.com
+    • Email: naomicherono892@gmail.com
+.
+    • Commit and push the file to GitHub:
+    • Open your terminal or command prompt.
 
+    • Navigate to your project directory:
+      cd path/to/your/project
+    • Add the README.md file to the staging area:
+      
+      git add README.md
+    • Commit the file:
+      git commit -m "Add README.md"
 
-
-
-
-
-
+    • Push the changes to GitHub:
+      git push origin main
